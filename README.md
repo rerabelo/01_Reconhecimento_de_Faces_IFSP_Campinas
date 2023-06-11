@@ -1,7 +1,5 @@
 # Reconhecimento de Faces - IFSP - Campinas
-Renata Rabelo
-
-Mariana Cabride
+Renata Rabelo & Mariana Cabride
 
 O código depositado nesse repositório realiza várias etapas relacionadas ao treinamento e teste de redes neurais para reconhecimento facial utilizando o dataset PubFig83 disponibilizado no desafio do Kaggle elaborado para a disciplina de Aplicações em Ciência de Dados (D3APL 2023) do curso Especialização em Ciência de Dados do IFSP Campinas.
 
